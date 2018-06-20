@@ -258,6 +258,10 @@ body {
   border-bottom: 2px solid #fff;
 }
 
+.restaurant-detail-active {
+  border-bottom: 2px solid #dd4b39;
+}
+
 .has-error-block {
   color: #dd4b39;
 }
